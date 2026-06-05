@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d503-01\\20230395 \uC720\uB2C8\uD2F0\\escape school\\assets\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\MonsterAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MonsterAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\FPSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\MonsterAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MonsterAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d503-01\\20230395 \uC720\uB2C8\uD2F0\\escape school\\assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\FPSController.cs",
+              "ToolTip": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\FPSController.cs",
+              "RelativeToolTip": "Assets\\FPSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:48:15.192Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,23 +44,22 @@
               "RelativeDocumentMoniker": "Assets\\MonsterAI.cs",
               "ToolTip": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\MonsterAI.cs",
               "RelativeToolTip": "Assets\\MonsterAI.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA8wEsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T10:51:42.007Z",
+              "WhenOpened": "2026-06-05T05:23:20.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FPSController.cs",
-              "DocumentMoniker": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\FPSController.cs",
-              "RelativeDocumentMoniker": "Assets\\FPSController.cs",
-              "ToolTip": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\FPSController.cs",
-              "RelativeToolTip": "Assets\\FPSController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Title": "MonsterAI.cs",
+              "DocumentMoniker": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\MonsterAI.cs",
+              "RelativeDocumentMoniker": "Assets\\MonsterAI.cs",
+              "ToolTip": "C:\\Users\\D503-01\\20230395 \uC720\uB2C8\uD2F0\\ESCAPE SCHOOL\\Assets\\MonsterAI.cs",
+              "RelativeToolTip": "Assets\\MonsterAI.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA8wEsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:48:15.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T10:51:42.007Z"
             }
           ]
         }

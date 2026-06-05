@@ -113,7 +113,7 @@ public class MonsterAI : MonoBehaviour
     void Patrol()
     {
         agent.speed = 3f;
-        if (!agent.pathPending && agent.remainingDistance < 0.5f)
+        if (!agent.pathPending && (agent.remainingDistance <= agent.stoppingDistance || agent.remainingDistance < 0.5f))
             GoToNextPoint();
     }
 
