@@ -29,31 +29,23 @@ public class FPSController : MonoBehaviour
         Move();
         LookAround();
     }
-
+    public bool IsMoving { get; private set; }
+    public bool IsRunning { get; private set; }
     void Move()
     {
-        // Shift 누르면 달리기
-        float currentSpeed = Input.GetKey(KeyCode.LeftShift)
-            ? runSpeed
-            : walkSpeed;
-
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
-        Vector3 move =
-            transform.right * x +
-            transform.forward * z;
+        IsRunning = Input.GetKey(KeyCode.LeftShift);
+        float currentSpeed = IsRunning ? runSpeed : walkSpeed;
+
+        Vector3 move = transform.right * x + transform.forward * z;
+        IsMoving = move.magnitude > 0.1f && controller.isGrounded;
 
         controller.Move(move * currentSpeed * Time.deltaTime);
 
-        // 중력
-        if (controller.isGrounded && velocity.y < 0)
-        {
-            velocity.y = -2f;
-        }
-
+        if (controller.isGrounded && velocity.y < 0) velocity.y = -2f;
         velocity.y += gravity * Time.deltaTime;
-
         controller.Move(velocity * Time.deltaTime);
     }
 

@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\D502-01\\EscapeHospital\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\flashlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\flashlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\bgmaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\bgmaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D502-01\\EscapeHospital\\Assets\\FootstepAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FootstepAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlashlightPickup.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FlashlightPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\FlashlightPickup.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FlashlightPickup.cs",
+              "RelativeToolTip": "Assets\\FlashlightPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:43:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonsterAI.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\MonsterAI.cs",
+              "RelativeDocumentMoniker": "Assets\\MonsterAI.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\MonsterAI.cs",
+              "RelativeToolTip": "Assets\\MonsterAI.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:51:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BGMAudio.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\BGMAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\BGMAudio.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\BGMAudio.cs",
+              "RelativeToolTip": "Assets\\BGMAudio.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:50:57.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\FPSController.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FPSController.cs",
+              "RelativeToolTip": "Assets\\FPSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:47:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootstepAudio.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FootstepAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\FootstepAudio.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FootstepAudio.cs",
+              "RelativeToolTip": "Assets\\FootstepAudio.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T06:22:25.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

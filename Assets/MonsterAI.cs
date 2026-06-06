@@ -45,6 +45,7 @@ public class MonsterAI : MonoBehaviour
             isSearching = false;
             lastSeenTimer = 0f;
             lastSeenPosition = player.position; // 위치 계속 갱신
+            BGMAudio.Instance.StartChase();
         }
         else if (isChasing)
         {
@@ -56,6 +57,7 @@ public class MonsterAI : MonoBehaviour
                 isChasing = false;
                 isSearching = true;
                 agent.SetDestination(lastSeenPosition);
+                BGMAudio.Instance.StopChase();
             }
         }
         else if (isSearching)
