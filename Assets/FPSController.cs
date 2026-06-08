@@ -26,6 +26,7 @@ public class FPSController : MonoBehaviour
 
     void Update()
     {
+        if (GameOverManager.Instance.isGameOver) return; // Ãß°¡
         Move();
         LookAround();
     }

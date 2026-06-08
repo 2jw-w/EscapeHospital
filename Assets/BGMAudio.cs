@@ -65,4 +65,8 @@ public class BGMAudio : MonoBehaviour
         fadingOut = true;
         targetClip = normalBGM;
     }
+    public void StopAll()
+    {
+        audioSource.Stop();
+    }
 }

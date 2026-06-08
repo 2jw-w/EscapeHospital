@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\D502-01\\EscapeHospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\flashlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\flashlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\clearmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\clearmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\doorinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\doorinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\bgmaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\bgmaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D502-01\\EscapeHospital\\Assets\\FootstepAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FootstepAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\monstercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\monstercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\keyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\keyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\footstepaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\footstepaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D502-01\\EscapeHospital\\Assets\\KeyPickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\KeyPickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\d502-01\\escapehospital\\assets\\flashlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\flashlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +67,109 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClearManager.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\ClearManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ClearManager.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\ClearManager.cs",
+              "RelativeToolTip": "Assets\\ClearManager.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T05:10:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterContact.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\MonsterContact.cs",
+              "RelativeDocumentMoniker": "Assets\\MonsterContact.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\MonsterContact.cs",
+              "RelativeToolTip": "Assets\\MonsterContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T02:33:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\GameOverManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T02:33:20.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\KeySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\KeySpawner.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\KeySpawner.cs",
+              "RelativeToolTip": "Assets\\KeySpawner.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:54:09.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\DoorInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorInteraction.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\DoorInteraction.cs",
+              "RelativeToolTip": "Assets\\DoorInteraction.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:38:11.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:37:27.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlashlightController.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FlashlightController.cs",
+              "RelativeDocumentMoniker": "Assets\\FlashlightController.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FlashlightController.cs",
+              "RelativeToolTip": "Assets\\FlashlightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:44:29.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "FlashlightPickup.cs",
               "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FlashlightPickup.cs",
               "RelativeDocumentMoniker": "Assets\\FlashlightPickup.cs",
               "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FlashlightPickup.cs",
               "RelativeToolTip": "Assets\\FlashlightPickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:43:49.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T08:43:49.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MonsterAI.cs",
               "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\MonsterAI.cs",
               "RelativeDocumentMoniker": "Assets\\MonsterAI.cs",
@@ -55,46 +177,58 @@
               "RelativeToolTip": "Assets\\MonsterAI.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T05:51:25.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T05:51:25.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BGMAudio.cs",
               "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\BGMAudio.cs",
               "RelativeDocumentMoniker": "Assets\\BGMAudio.cs",
               "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\BGMAudio.cs",
               "RelativeToolTip": "Assets\\BGMAudio.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwDUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T05:50:57.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FPSController.cs",
               "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FPSController.cs",
               "RelativeDocumentMoniker": "Assets\\FPSController.cs",
               "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FPSController.cs",
               "RelativeToolTip": "Assets\\FPSController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T05:47:44.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "FootstepAudio.cs",
               "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FootstepAudio.cs",
               "RelativeDocumentMoniker": "Assets\\FootstepAudio.cs",
               "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\FootstepAudio.cs",
               "RelativeToolTip": "Assets\\FootstepAudio.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T06:22:25.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyPickup.cs",
+              "DocumentMoniker": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\KeyPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\KeyPickup.cs",
+              "ToolTip": "C:\\Users\\D502-01\\EscapeHospital\\Assets\\KeyPickup.cs",
+              "RelativeToolTip": "Assets\\KeyPickup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:36:59.991Z",
               "EditorCaption": ""
             }
           ]
